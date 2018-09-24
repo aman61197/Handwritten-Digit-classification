@@ -1,0 +1,7 @@
+To get best results from a model you built from scratch for image classification : 
+1) Use CNN.
+2) Use dropout, data augmentation, different network architecture to prevent overfitting.
+
+For Multiclass single label Classification :
+1) Loss : categorical_crossentropy
+2) Last layer activation : softmax
